@@ -528,7 +528,7 @@ class HausaStemmer:
             'fasinjoji':'fasinja',
             'harzuwa':'zuwa',
             'kaffafuwa':'kafa',
-            '':'',
+            'mimmike':'mika',
             '':'',
             '':'',
             '':'',
